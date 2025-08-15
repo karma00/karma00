@@ -13,7 +13,7 @@ Here are some of the technologies and tools I frequently use:
 * **Programming Languages:** 💻 C#, Python, Go, JavaScript, TypeScript, SQL
 * **Frameworks:** 🚀 .NET, FastAPI, Gin, React.js (for some projects)
 * **Databases:** 🗄️ MSSQL, MySQL, PostgreSQL, MongoDB
-* **Tools & Other:** 🐳 Linux, Docker, Redis, Git, GitHub CI/CD, Message Queue
+* **Tools & Other:** 🐳 Linux, AWS, Docker, Git, GitHub CI/CD, Redis, Message Queue
 
 ---
 

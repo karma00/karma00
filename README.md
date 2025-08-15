@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hello there 👋, I'm Long Le!
 
-<!--
-**karma00/karma00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm a **Senior Backend Developer** with a deep passion for programming and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Skills & Technologies
+
+Here are some of the technologies and tools I frequently use:
+
+* **Programming Languages:** 💻 C#, Python, Go, JavaScript, TypeScript, SQL
+* **Frameworks:** 🚀 .NET, FastAPI, Gin, React.js (for some projects)
+* **Databases:** 🗄️ MSSQL, MySQL, PostgreSQL, MongoDB
+* **Tools & Other:** 🐳 Linux, Docker, Redis, Git, GitHub CI/CD, Message Queue
+
+---
+
+### Connect with Me 🤝
+
+* **Email:** 📧 hyperx.vinhlong@gmail.com
+
+---
+
+Thanks for visiting my profile! ❤️‍🔥
